@@ -11,5 +11,5 @@
 + Install https://pypi.org/project/tweet-preprocessor/
 
 ### 2. Testing
-
++ Enter input for file location and parameters
 
