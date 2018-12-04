@@ -1,2 +1,2 @@
-# Social-Event-Magnitudes
-kda
+# Social Event Magnitudes (In Progress)
+
