@@ -1,10 +1,11 @@
 # Social Event Magnitudes (In Progress)
-  Develop an alternative measure to understand activity levels on a social platform.
+  The goal is to develop an alternative measure to understand activity levels on a social platform.
+  The code uses social event magnitudes to perform supervised detection. 
 
 ## Instructions
 
 ### 1. Prerequisites
-
+dfs
 
 ### 2. Testing
 
