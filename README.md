@@ -16,7 +16,7 @@
 + ...
 
 ## Acknowledgements
-Many thanks to the works:\
+The project is inspired by the works:\
 http://charuaggarwal.net/sdm2012-camera.pdf  
 https://www.kdd.org/kdd2016/papers/files/adf0510-nikolaevA.pdf  
 https://arxiv.org/pdf/1306.5550.pdf  
